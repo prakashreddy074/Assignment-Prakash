@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import junit.framework.Assert;
 
-public class ProblemSolveRCBTest {
+public class ProblemSolvingRCBTest {
 
 	public static JSONArray playersList;
 
